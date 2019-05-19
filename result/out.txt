@@ -1,0 +1,3 @@
+./text_img/1.jpg：苏A2396
+./text_img/2.jpg：鲁QW9575
+./text_img/5.jpg：川A88888
